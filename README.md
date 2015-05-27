@@ -1,4 +1,4 @@
-# Comunity-colaborations.js
+# Bright-ideas.js
 
 Hello all,
 
